@@ -260,7 +260,7 @@ header .menu{
         padding: 0 1.5rem;
     }
 
-    .footer{
+    .footer{0
         position: relative;
     }
 }
@@ -268,7 +268,7 @@ header .menu{
 @media(min-width: 768px) and (max-width: 1023.98px)
 { 
 .content{ 
-    mmargin-top: 50px;
+    margin-top: 500px;
 
 }
 
