@@ -235,7 +235,7 @@ header .menu{
 
     .content{
         text-align: center;
-        padding-top: 8rem;
+        padding-top: 500px;
         display: block;
         width: 100%;
         font-size: small;
@@ -261,7 +261,7 @@ header .menu{
         padding: 0 1.5rem;
     }
 
-    .footer{0
+    .footer{
         position: relative;
     }
 }
