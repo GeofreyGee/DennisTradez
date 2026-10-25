@@ -219,8 +219,8 @@ header .menu{
 @media(min-width: 768px) and (max-width: 1023.98px)
 { 
     header .logo{
-        font-size: 15px;
-        margin-left: 30px;
+        font-size: 0px;
+        margin-left: 0px;
     }
 
     header ul{
@@ -230,7 +230,7 @@ header .menu{
     }
 
     header .search-box{
-        margin-right: 100px;
+        margin-right: 0px;
     }
 
     .content{
