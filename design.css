@@ -200,7 +200,7 @@ header .menu{
         align-items: center;
         transition: right 0.5secs linear;
     }
-
+    
     header .menu{
         display: block;
         width: 100px;
